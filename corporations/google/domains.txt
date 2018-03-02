@@ -1,0 +1,5 @@
+google.com
+gstatic.com
+google-analytics.com
+doubleclickbygoogle.com
+doubleclick.net
