@@ -42,7 +42,8 @@ COMMIT
 A dnsmasq configuration file `/etc/dnsmasq.conf` can block domains and their respective subdomains, while a hosts file `/etc/hosts` requires a complete listing of every subdomain.
 
 ```
-# Blocking Cryptojacking Domains 
+# Blocking Cryptojacking Domains
+
 address=/authedmine.com/0.0.0.0
 address=/coinhive.com/0.0.0.0
 address=/rocks.io/0.0.0.0
