@@ -1,0 +1,15 @@
+microsoft.com
+s-microsoft.com
+onestore.ms
+live.com
+gfx.ms
+
+
+akamaized.net
+optimizely.com
+everesttech.net
+doubleclick.net
+clicktale.net
+go-mpulse.net
+demdex.net
+2o7.net
