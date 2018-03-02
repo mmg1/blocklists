@@ -1,7 +1,7 @@
 Blacklists
 ==========
 
-Although Nefarious Laboratories prefers a *default deny* approach to security, we maintain blacklists for those who prefer a *default allow* policy. The included blacklists define corporations by [ASN](https://en.wikipedia.org/wiki/Autonomous_system_%28Internet%29), allowing users to block an entire IP for.
+Although Nefarious Laboratories prefers a *default deny* approach to security, we maintain blocklists for those who prefer a *default allow* policy. The included blacklists define corporations by [ASN](https://en.wikipedia.org/wiki/Autonomous_system_%28Internet%29), allowing users to block an entire IP for.
 
 [Amazon](https://github.com/neflabs/blacklists/corporations/amazon) `AS16509`  
 [Apple](https://github.com/neflabs/blacklists/corporations/apple) `AS714`  
