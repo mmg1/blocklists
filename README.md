@@ -1,7 +1,8 @@
 Blacklists
 ==========
 
-The included blacklists define corporations by [ASN](https://en.wikipedia.org/wiki/Autonomous_system_%28Internet%29), allowing users to block an entire IP for. See [dnslytics.com](https://dnslytics.com/bgp/as32934) for more details.
+The included blacklists define corporations by [ASN](https://en.wikipedia.org/wiki/Autonomous_system_%28Internet%29), allowing  
+users to block an entire IP for. See [dnslytics.com](https://dnslytics.com/bgp/as32934) for more details.
 
 [Amazon](https://github.com/neflabs/blacklists/corporations/amazon) `AS16509`  
 [Apple](https://github.com/neflabs/blacklists/corporations/apple) `AS714`  
