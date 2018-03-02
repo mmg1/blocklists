@@ -3,11 +3,11 @@ Blacklists
 
 Although Nefarious Laboratories prefers a *default deny* approach to security, we maintain blocklists for those who prefer a *default allow* policy. The included blacklists define corporations by [ASN](https://en.wikipedia.org/wiki/Autonomous_system_%28Internet%29), allowing users to block an entire IP for.
 
-[Amazon](https://github.com/neflabs/blacklists/corporations/amazon) `AS16509`  
-[Apple](https://github.com/neflabs/blacklists/corporations/apple) `AS714`  
-[Facebook](https://github.com/neflabs/blacklists/corporations/facebook) `AS32934`  
-[Google](https://github.com/neflabs/blacklists/corporations/google) `AS15169`  
-[Microsoft](https://github.com/neflabs/blacklists/corporations/microsoft) `AS8075`  
+[Amazon](https://github.com/neflabs/blocklists/corporations/amazon) `AS16509`  
+[Apple](https://github.com/neflabs/blocklists/corporations/apple) `AS714`  
+[Facebook](https://github.com/neflabs/blocklists/corporations/facebook) `AS32934`  
+[Google](https://github.com/neflabs/blocklists/corporations/google) `AS15169`  
+[Microsoft](https://github.com/neflabs/blocklists/corporations/microsoft) `AS8075`  
 
 Note that these corporations operate hosting services, and blocking corporate IP [ranges](https://dnslytics.com/bgp/as32934) may prevent users and devices from accessing third-party domains which are unaffiliated with these corporations.
 
