@@ -1,4 +1,4 @@
-Blacklists
+Blocklists
 ==========
 
 Although Nefarious Laboratories prefers a *default deny* approach to security, we maintain blocklists for those who prefer a *default allow* policy. The included blacklists define corporations by [ASN](https://en.wikipedia.org/wiki/Autonomous_system_%28Internet%29), allowing users to block an entire IP for.
