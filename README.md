@@ -15,13 +15,9 @@ Note that these corporations operate hosting services, and blocking corporate IP
 
 ```
 *filter
-:INPUT DROP [0:0]
+:INPUT ACCEPT [0:0]
 :FORWARD ACCEPT [0:0]
 :OUTPUT ACCEPT [0:0]
--A INPUT -i lo -j ACCEPT
--A INPUT -p udp --sport 53 -j ACCEPT
--A INPUT -p icmp --icmp-type echo-reply -j ACCEPT
--A INPUT -m state --state RELATED,ESTABLISHED -j ACCEPT
     
 #Amazon
 -A OUTPUT -s 8.18.145.0/24 -j DROP
