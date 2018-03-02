@@ -1,0 +1,8 @@
+apple.com
+cdn-apple.com
+apple-dns.net
+aaplimg.com
+akadns.net
+cddbp.net
+icloud.com
+mzstatic.com
