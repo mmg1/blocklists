@@ -43,6 +43,8 @@ COMMIT
 
 ## DNSmasq Example Rules (for Domains)
 
+A dnsmasq configuration file `/etc/dnsmasq.conf` can block domains and their respective subdomains, while a hosts file `/etc/hosts` requires a complete listing of every subdomain.
+
 ```
 address=/amazon.com/0.0.0.0
 ```
