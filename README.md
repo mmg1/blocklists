@@ -1,8 +1,7 @@
 Blacklists
 ==========
 
-The included blacklists define corporations by [ASN](https://en.wikipedia.org/wiki/Autonomous_system_%28Internet%29), allowing  
-users to block an entire IP for. See [dnslytics.com](https://dnslytics.com/bgp/as32934) for more details.
+Although Nefarious Laboratories prefers a *default deny* approach to security, we maintain blocklists for those who prefer a *default allow* policy. The included blacklists define corporations by [ASN](https://en.wikipedia.org/wiki/Autonomous_system_%28Internet%29), allowing users to block an entire IP for. See [dnslytics.com](https://dnslytics.com/bgp/as32934) for more details.
 
 [Amazon](https://github.com/neflabs/blacklists/corporations/amazon) `AS16509`  
 [Apple](https://github.com/neflabs/blacklists/corporations/apple) `AS714`  
@@ -12,7 +11,7 @@ users to block an entire IP for. See [dnslytics.com](https://dnslytics.com/bgp/a
 
 Note that these corporations operate hosting services, and blocking corporate IP ranges may prevent users and devices from accessing third-party domains which are unaffiliated with these corporations.
 
-## IPTables Example Rules
+## IPTables Example Rules (for ASNs)
 
 ```
 *filter
@@ -42,9 +41,11 @@ Note that these corporations operate hosting services, and blocking corporate IP
 COMMIT
 ```
 
-## Cryptojacking Domains
+## DNSmasq Example Rules (for Domains)
 
-Although Nefarious Laboratories prefers a *default deny* approach to security, we maintain a list of [cryptojacking](https://en.wikipedia.org/wiki/Cryptocurrency#Criticism) domains for those who prefer a *default allow* policy.
+```
+address=/amazon.com/0.0.0.0
+```
 
 ## Inferior Passwords
 
