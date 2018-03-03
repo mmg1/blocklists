@@ -8,6 +8,7 @@ amazon.com.mx
 amazon.com.au
 amazon.com.br
 amazon.de
+amazon.eu
 amazon.fr
 amazon.in
 amazon.it
@@ -19,7 +20,9 @@ media-amazon.com
 ssl-images-amazon.com
 amazoninspire.com
 amazon.jobs
+lab126.com
 alexa.com
+a9.com
 
 amazonbitcoin.com
 amazonethereum.com
@@ -33,6 +36,7 @@ audible.com
 audiobookstand.com
 bookdepository.com
 boxofficemojo.com
+brillianceaudio.com
 comixology.com
 createspace.com
 dpreview.com
@@ -41,9 +45,14 @@ fabric.com
 goodreads.com
 imdb.com
 junglee.com
+shelfari.com
 shopbop.com
 souq.com
 tenmarks.com
+twitch.com
+twitch.net
+twitch.org
+twitch.tv
 wholefoodsmarket.com
 withoutabox.com
 woot.com
