@@ -5,3 +5,6 @@ fbcdn.net
 fbsbx.com
 tfbnw.net
 fb.com
+fb.me
+messenger.com
+m.me
