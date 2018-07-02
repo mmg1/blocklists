@@ -83,7 +83,6 @@ clod.pw
 cloudcdn.gdn
 cloudcoins.biz
 cloudcoins.co
-cloudfront.net
 cnhv.co
 co.nf
 coin-have.com
