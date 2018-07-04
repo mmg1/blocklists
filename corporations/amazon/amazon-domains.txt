@@ -18,6 +18,7 @@ amazon.es
 amazonaws.com
 media-amazon.com
 ssl-images-amazon.com
+amazon-adsystem.com
 amazoninspire.com
 amazon.jobs
 lab126.com
