@@ -6,3 +6,6 @@ akadns.net
 cddbp.net
 icloud.com
 mzstatic.com
+itunes.com
+itunes-nocookie.com
+wwwitunes.com
